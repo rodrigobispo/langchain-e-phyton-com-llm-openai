@@ -1,8 +1,8 @@
-# LangChain e Python: criando ferramentas com a LLM OpenAI
+# LangChain e Python: criação de ferramentas com a LLM OpenAI
 
 ## ⚙️ Guia de Configuração
 
-Siga os passos abaixo para configurar seu ambiente e utilizar os scripts do projeto.
+Siga os passos abaixo para configurar o ambiente e utilizar os scripts do projeto.
 
 ### 1. Criar e Ativar Ambiente Virtual
 
