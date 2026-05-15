@@ -5,6 +5,7 @@ from langchain.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from typing import Literal, TypedDict
 
+# orquestrando assistente sem LangGraph
 
 load_dotenv()
 api_key = os.getenv("OPENAI_API_KEY")
